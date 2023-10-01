@@ -6,7 +6,8 @@
 
 Kat Call Nails is a single page website for a local nail tech located in Brooklyn, NY. Initially, the client reached out to create a site through the Square app’s website builder in order to utilize the app’s appointment management features. To provide a more unique design than Square was capable of offering, I developed the site and logo from scratch. 
 
-Here you will find the source code for the project and a link to the deployed site via Dreamhost: https://www.katcallnails.com/
+Here you will find the source code for the project. 
+And here is the deployed site via Dreamhost: https://www.katcallnails.com/
 
 
 #### Project Goals: 
